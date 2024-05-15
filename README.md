@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dashboard (en)
 
 
@@ -16,6 +15,4 @@ This project is a challenge from "Frontend Mentor", is a static dashboard with r
 1. Open the terminal and run "npm install".
 2. Run "npm run dev".
 3. Open the link left by the terminal to see the web page.
-=======
 # dashboard-react-tailwind
->>>>>>> 3ce46b2dd00c6e71c9bd7bf6fa1c35c63be509fc
