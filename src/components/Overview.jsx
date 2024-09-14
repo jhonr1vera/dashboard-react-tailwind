@@ -35,7 +35,7 @@ export const Overview = () => {
 
 export const OverviewToday = () => {
   return (
-    <section className='mt-[970px] md:mt-[500px] content-center desktop:mt-[230px] desktop:w-[100%] mx-auto ultra-desktop:w-[75%] mb-14 '>
+    <section className='mt-[970px] md:mt-[500px] content-center desktop:mt-[230px] desktop:w-[100%] mx-auto ultra-desktop:w-[76%] mb-14 '>
       <h1 className=" text-Dark-Grayish-Blue font-bold text-2xl mb-10 dark:text-white px-6">Overview - Today</h1>
       <div className='flex flex-wrap'>
       {
