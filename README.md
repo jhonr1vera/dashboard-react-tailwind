@@ -1,18 +1,83 @@
-# Dashboard (en)
+
+# ISUM Project
+
+"MarketCharts". This project is a tool for marketing data analysis that allows the study of current information stored in a database and generates reports with charts. It is intended for academic purposes only.
+
+According to the needs, this:
+
+- Analyzes the information through charts (Dashboard)
+- Allows to export the Dashboard information.
+- Allows to see information from db in tables.
+- Allows to filter information.
+## Installation
+
+Set Database (MySQL)
+
+- Download instituto_tesis.sql
+- Execute it in your SQL Database
+
+Previous tested in XAMPP
 
 
-This project is a challenge from "Frontend Mentor", is a static dashboard with responsive design, and a darkmode.
+    
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/jhonr1vera/dashboard-react-tailwind.git
+```
+
+### Server
+
+Go to the project directory
+
+```bash
+  cd marketcharts/server
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+### Client
+
+Go to the project directory
+
+```bash
+  cd marketcharts/client
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the client server
+
+```bash
+  npm run dev
+```
 
 
-## Technologies:
-- React.
-- Tailwind.
-- HTML.
-- CSS.
+## Tech Stack
 
-## To start:
+**Client:** React, TailwindCSS
 
-1. Open the terminal and run "npm install".
-2. Run "npm run dev".
-3. Open the link left by the terminal to see the web page.
-# dashboard-react-tailwind
+**Server:** Node, Express
+
+
+## Authors
+
+- [@jhonr1vera](https://www.github.com/jhonr1vera)
+
